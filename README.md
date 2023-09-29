@@ -36,11 +36,8 @@ I am about to start a freelance work, To collect experience before working on th
 
 ### 📈 My GitHub Stats
 
-<div align="center">
-  <a href="https://github-stats-alpha.vercel.app/api?username=rechelyn-o6477"><img alt="TYP Top Language" width="61%" src="https://github-stats-alpha.vercel.app/api?username=rechelyn-o6477&cc=0D1117&tc=fff&ic=FF6600&bc=0D1117"/></a>
-  
-  <!-- <a href="https://github-readme-streak-stats.herokuapp.com?user=rechelyn-o6477"><img alt="" width="61%" src="https://github-readme-streak-stats.herokuapp.com?user=rechelyn-o6477&cc=0D1117&tc=fff&ic=FF6600&bc=0D1117"/></a> -->
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rechelyn-o6477&theme=dark&background=000000)](https://git.io/streak-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rechelyn-o6477&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github-stats-alpha.vercel.app/api?username=rechelyn-o6477"><img alt="TYP Top Language" width="33%" src="https://github-stats-alpha.vercel.app/api?username=rechelyn-o6477&cc=0D1117&tc=fff&ic=FF6600&bc=0D1117"/></a>
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=rechelyn-o6477"><img alt="" width="33%" src="https://github-readme-streak-stats.herokuapp.com?user=rechelyn-o6477&cc=0D1117&tc=fff&ic=FF6600&bc=0D1117"/></a>
+  <a href="http://www.github.com/rechelyn-o6477"><img alt="TYP Top Language" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rechelyn-o6477&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 </div>
