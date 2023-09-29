@@ -14,8 +14,8 @@ I am about to start a freelance work, To collect experience before working on th
   <a href="https://twitter.com/richlanu_">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/">
   </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=rechelyn-o6477&style=flat-square&color=blue" alt="account counter"/>
+  <!-- <br>
+  <img src="https://komarev.com/ghpvc/?username=rechelyn-o6477&style=flat-square&color=blue" alt="account counter"/> -->
 </div>
 
 ---
