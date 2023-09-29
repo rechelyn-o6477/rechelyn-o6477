@@ -1,14 +1,18 @@
+<h1 align="center">PROFILE ME</h1>
+
 ### Hi Everyone 👋
 
-My name is Thanaphat Yuenmun. You can call me "Oak".
-<br>
-I am a bachelor's degree student from King Mongkut's University of Technology North Bangkok.
-<br>
+<p>
+My name is Thanaphat Yuenmun. You can call me "Oak". <br>
+I am a bachelor's degree student from King Mongkut's University of Technology North Bangkok. <br>
 I am about to start a freelance work, To collect experience before working on the main work.
+</p>
 
 
-<div id="badges" align="center">
-  <a href="https://www.youtube.com/channel/UCY1mkqOstzIspSkeH26RFNw" target="_blank">
+### Follow with Me
+
+<div id="badges" align="left">
+  <a href="https://www.youtube.com/@rechelyn_o6477" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/">
   </a>
   <a href="https://twitter.com/richlanu_">
@@ -18,11 +22,10 @@ I am about to start a freelance work, To collect experience before working on th
   <img src="https://komarev.com/ghpvc/?username=rechelyn-o6477&style=flat-square&color=blue" alt="account counter"/> -->
 </div>
 
----
 
-### Tools and Language Skills
+### 🔧 Tools and Language Skills
 
-</div>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,firebase,php,mysql,c,cpp,cs,py,vscode,ps,pr,xd,figma,github" />
@@ -31,8 +34,13 @@ I am about to start a freelance work, To collect experience before working on th
 
 ---
 
-### My GitHub Stats
+### 📈 My GitHub Stats
 
+<div align="center">
+  <a href="https://github-stats-alpha.vercel.app/api?username=rechelyn-o6477"><img alt="TYP Top Language" width="61%" src="https://github-stats-alpha.vercel.app/api?username=rechelyn-o6477&cc=0D1117&tc=fff&ic=FF6600&bc=0D1117"/></a>
+  
+  <!-- <a href="https://github-readme-streak-stats.herokuapp.com?user=rechelyn-o6477"><img alt="" width="61%" src="https://github-readme-streak-stats.herokuapp.com?user=rechelyn-o6477&cc=0D1117&tc=fff&ic=FF6600&bc=0D1117"/></a> -->
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rechelyn-o6477&theme=dark&background=000000)](https://git.io/streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rechelyn-o6477&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
