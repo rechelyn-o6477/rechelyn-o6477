@@ -28,7 +28,9 @@ I am about to start a freelance work, To collect experience before working on th
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,php,mysql,c,cpp,cs,py,vscode,ps,xd,figma,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,php,mysql,c,cpp,cs,py" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=vscode,ps,xd,figma,github" />
   </a>
 </p>
 
@@ -47,3 +49,5 @@ I am about to start a freelance work, To collect experience before working on th
     <img alt="TYP Top Language" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rechelyn-o6477&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
   </a>
 </div>
+
+[![Thanaphat Yuenmun profile views](https://u8views.com/api/v1/github/profiles/95047291/views/day-week-month-total-count.svg)](https://u8views.com/github/rechelyn-o6477)
