@@ -1,6 +1,6 @@
 <h1 align="center">PROFILE ME</h1>
 
-### Hi Everyone 👋
+### Hi Everyone
 
 <p>
 My name is Thanaphat Yuenmun. You can call me "Oak". <br>
@@ -23,18 +23,18 @@ I am about to start a freelance work, To collect experience before working on th
 </div>
 
 
-### 🔧 Tools and Language Skills
+### Tools and Language Skills
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,firebase,php,mysql,c,cpp,cs,py,vscode,ps,pr,xd,figma,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,php,mysql,c,cpp,cs,py,vscode,ps,xd,figma,github" />
   </a>
 </p>
 
 ---
 
-### 📈 My GitHub Stats
+### My GitHub Stats
 
 <div align="center">
   <a href="https://github-stats-alpha.vercel.app/api?username=rechelyn-o6477">
