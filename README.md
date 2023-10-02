@@ -50,4 +50,6 @@ I am about to start a freelance work, To collect experience before working on th
   </a>
 </div>
 
-[![Thanaphat Yuenmun profile views](https://u8views.com/api/v1/github/profiles/95047291/views/day-week-month-total-count.svg)](https://u8views.com/github/rechelyn-o6477)
+<div align="center">
+  [![Thanaphat Yuenmun profile views](https://u8views.com/api/v1/github/profiles/95047291/views/day-week-month-total-count.svg)](https://u8views.com/github/rechelyn-o6477)
+</div>
