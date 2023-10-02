@@ -2,7 +2,7 @@
 
 ### Hi Everyone
 
-<p>
+<p align="center">
 My name is Thanaphat Yuenmun. You can call me "Oak". <br>
 I am a bachelor's degree student from King Mongkut's University of Technology North Bangkok. <br>
 I am about to start a freelance work, To collect experience before working on the main work.
@@ -11,7 +11,7 @@ I am about to start a freelance work, To collect experience before working on th
 
 ### Follow with Me
 
-<div id="badges" align="left">
+<div id="badges" align="center">
   <a href="https://www.youtube.com/@rechelyn_o6477" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/">
   </a>
