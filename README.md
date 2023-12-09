@@ -28,9 +28,12 @@ I am about to start a freelance work, To collect experience before working on th
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,php,mysql,c,cpp,cs,py" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=vscode,ps,xd,figma,github" />
+    <p>Front-End</p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,angular,laravel" />
+    <br> <p>Back-End</p>
+   <img src="https://skillicons.dev/icons?i=php,mysql,firebase,angular,laravel" /> 
+    <br> <p>TooL</p>
+    <img src="https://skillicons.dev/icons?i=ps,xd,figma,github,vscode" />
   </a>
 </p>
 
