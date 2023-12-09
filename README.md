@@ -13,13 +13,11 @@ I am about to start a freelance work, To collect experience before working on th
 
 <div id="badges" align="center">
   <a href="https://www.youtube.com/@rechelyn_o6477" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/oaktnp_">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/">
+  <a href="https://twitter.com/rechelyn_o6477">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <!-- <br>
-  <img src="https://komarev.com/ghpvc/?username=rechelyn-o6477&style=flat-square&color=blue" alt="account counter"/> -->
 </div>
 
 
@@ -29,9 +27,9 @@ I am about to start a freelance work, To collect experience before working on th
 <p align="center">
   <a href="https://skillicons.dev">
     <p>Front-End</p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular,laravel" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,angular,laravel" />
     <br> <p>Back-End</p>
-   <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,axios" /> 
+   <img src="https://skillicons.dev/icons?i=php,mysql,firebase,angular,laravel" /> 
     <br> <p>TooL</p>
     <img src="https://skillicons.dev/icons?i=ps,xd,figma,github,vscode" />
   </a>
